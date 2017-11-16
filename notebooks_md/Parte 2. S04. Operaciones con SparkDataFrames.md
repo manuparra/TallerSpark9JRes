@@ -414,7 +414,7 @@ results <- sql("select corr(trip_time,trip_distance) as correlation_coef
 head(results)
 ```
 
-**¿ Qué deducimos de estos coeficiente de corelación ?**
+**¿ Qué deducimos de estos coeficientes de correlación ?**
 
 ## Uso de magittr para el trabajo con los datos
 
