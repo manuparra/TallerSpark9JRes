@@ -92,7 +92,7 @@ Almacenar más datos en memoria. Usar más memoria en lugar de disco.
 ## Resilient Distributed Datasets (RDDs)
 
 * Colecciones de objetos particionados y repartidos a lo largo del cluster, almacenado en memoría o disco.
-* Manipulados a través de deversas transformaciones y acciones (map, filter, join, count, collect, save, ...)
+* Manipulados a través de diversas transformaciones y acciones (map, filter, join, count, collect, save, ...)
 * Son automáticamente reconstruidos en caso de fallo de la máquina 
 
 ## Hadoop (Map Reduce) y Spark
