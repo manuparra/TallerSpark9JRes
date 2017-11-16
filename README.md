@@ -1,5 +1,5 @@
-# Taller de "Procesamiento masivo de datos con SparkR"
-================
+# Taller de "Procesamiento masivo de datos con Spark+R"
+
 
   * [Taller de "Procesamiento masivo de datos con SparkR"](#taller-de-procesamiento-masivo-de-datos-con-sparkr)    
     * [Imparte el taller](#imparte-el-taller)
@@ -19,9 +19,8 @@
 
 ![Spark+R](https://sites.google.com/site/manuparra/home/SparkRlogo.png)
 
-## VIII Jornadas Usuarios de R, Albacete (España) el 17-18 de noviembre de 2016
+## IX Jornadas Usuarios de R, Granada (España) el 16-17 de noviembre de 2017
 
-![Jornadas_R_Albacete](https://sites.google.com/site/manuparra/home/jornadas_R_albacete.png)
 
 
 ## Imparte el taller:
