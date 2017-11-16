@@ -65,7 +65,7 @@ Más información sobre los métodos de inicialización de Spark: https://spark.
 
 Una vez que hayamos terminado el script, **siempre al fina**l, es necesario siempre cerrar la sesión con Spark para liberar recursos.
 
-El problema que tiene no usar este comando es que si no se liberan recursos y los dataframes están en memería y además tenemos limitada la memoria, entonces Spark no funcionará correctamente al acumuluar y no despejar lo que hemos usado.
+El problema que tiene no usar este comando es que si no se liberan recursos y los dataframes están en memoria y además tenemos limitada la memoria, entonces Spark no funcionará correctamente al acumular y no despejar lo que hemos usado.
 
 
 ```R
